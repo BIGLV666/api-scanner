@@ -11,6 +11,7 @@
     <groupId>org.example</groupId>
     <artifactId>api-scanner</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>jar</packaging>
     <name>api-scanner</name>
     <description>api-scanner</description>
     <url/>
